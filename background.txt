@@ -1,0 +1,6 @@
+FF000000
+2
+securetty 4141 byte 215
+$ cd /etc
+$ ls -l
+ls -l | wc -l
